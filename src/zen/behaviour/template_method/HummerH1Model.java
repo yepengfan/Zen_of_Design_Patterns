@@ -5,10 +5,10 @@ package zen.behaviour.template_method;
  */
 public class HummerH1Model extends HummerModel {
     public void alarm(){
-        System.out.println("Hummer H1 alarming.");
+        System.out.println("Hummer H1 is alarming.");
     }
     public void engineBoom(){
-        System.out.println("Hummer H1 engine booming.");
+        System.out.println("Hummer H1's engine is booming.");
     }
     public void start(){
         System.out.println("Hummer H1 starts.");

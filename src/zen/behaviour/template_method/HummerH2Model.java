@@ -8,7 +8,7 @@ public class HummerH2Model extends HummerModel {
         System.out.println("Hummer H2 alarming.");
     }
     public void engineBoom(){
-        System.out.println("Hummer H2 engine booming.");
+        System.out.println("Hummer H2's engine booming.");
     }
     public void start(){
         System.out.println("Hummer H2 starts.");
